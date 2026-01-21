@@ -1,0 +1,10 @@
+Compatibility
+-------------
+• Mouse: Ant Esports GM320 (Instant A825 variants)
+• OS: Linux (tested on Ubuntu / Arch based systems)
+• Python: 3.9+
+• Status: Experimental / Incomplete
+
+⚠ IMPORTANT:
+This tool DOES NOT currently work with all GM320 firmware variants.
+Some firmware versions expose no writable configuration interface.
